@@ -99,7 +99,7 @@ button {
 }
 
 h6 {
-	color: var(--color-1);
+	color: var(--color-5);
 }
 
 li {
@@ -788,6 +788,10 @@ LARGE SCREENS
 		background-color: #d9d9d9;
 		opacity: 0.2;
 	}
+
+	.menu-items {
+		margin-top: var(--spacing-large);
+	}
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -994,6 +998,10 @@ LARGE SCREENS
 	}
 	.map-wrapper {
 		width: 500px;
+	}
+
+	.menu-items {
+		margin-top: var(--spacing-large);
 	}
 
 	/* FOOTER */
