@@ -790,7 +790,7 @@ LARGE SCREENS
 	}
 
 	#menu-items-section {
-		margin-top: var(--spacing-medium);
+		margin-top: var(--spacing-large);
 	}
 
 	h6 {
@@ -1029,7 +1029,7 @@ LARGE SCREENS
 	}
 
 	#menu-items-section {
-		margin-top: var(--spacing-medium);
+		margin-top: var(--spacing-large);
 	}
 	h6 {
 		color: var(--color-5);
