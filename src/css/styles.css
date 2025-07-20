@@ -789,8 +789,12 @@ LARGE SCREENS
 		opacity: 0.2;
 	}
 
-	.menu-items {
-		margin-top: var(--spacing-large);
+	#menu-items-section {
+		margin-top: var(--spacing-medium);
+	}
+
+	h6 {
+		color: var(--color-5);
 	}
 }
 
@@ -967,6 +971,9 @@ LARGE SCREENS
 		/* border: 2px solid; */
 		width: 85%;
 	}
+	.menu-items-section {
+		margin-top: var(--spacing-medium);
+	}
 
 	/* CONTACTS PAGE */
 	#contact-page-section {
@@ -1019,6 +1026,13 @@ LARGE SCREENS
 		margin-top: var(--spacing-large);
 		background-color: #d9d9d9;
 		opacity: 0.2;
+	}
+
+	#menu-items-section {
+		margin-top: var(--spacing-medium);
+	}
+	h6 {
+		color: var(--color-5);
 	}
 
 	/* CONTACT PAGE */
