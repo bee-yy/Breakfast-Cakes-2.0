@@ -14,18 +14,18 @@ function tabSwitch(e) {
 
 	switch (page) {
 		case "home-nav":
-			console.log("Home Page");
+			// console.log("Home Page");
 			let content = mainContainer.append(homeContent());
 			break;
 
 		case "menu-nav":
-			console.log("Menu Items Page");
+			// console.log("Menu Items Page");
 			mainContainer.append(menuContent());
 
 			break;
 
 		case "contact-nav":
-			console.log("Contact Page");
+			// console.log("Contact Page");
 
 			mainContainer.append(contactContent());
 			break;
